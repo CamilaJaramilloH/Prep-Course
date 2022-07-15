@@ -1,0 +1,4 @@
+For: es una forma rapida y sencilla de hacer algo repetidamente, rapidamente, un bucle for evalua ña expresion condicional para su ejecuccion. 
+&&: es un operador logico, que evalua las exresiones y se ejecutara dependiendo si son true or false. 
+or: es un operador logico, y este determinara si las expresiones son true or false y de acuerdo a esto devolvera. 
+not: es un operador logico, que devolvera el valor booleano opuesto que se pase. 
