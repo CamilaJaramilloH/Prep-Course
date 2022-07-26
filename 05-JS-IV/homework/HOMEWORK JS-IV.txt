@@ -1,0 +1,6 @@
+Objeto: es como una coleccion de propiedades, el cual contiene mucha informacion sobre una cosa. 
+Propiedades: es la asociacion entre un nombre y un valor 
+Método; son las funciones guardadas dentro de un objeto.
+Dot Notation: es la forma de acceder a un objeto, a traves de un punto y nombre clave. 
+bracket notation: es la forma de acceder a un objeto, a traves corchetes y usando cadenas o numeros o variables.
+bucle for... in loop: repite una variable especificada sobre todas las propiedades especificas de un objeto. 
