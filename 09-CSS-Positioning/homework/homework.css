@@ -10,7 +10,7 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     display:block;
    }
     
- 
+   
 #ejercicioUno {
     text-align:center;
 }
@@ -39,13 +39,34 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 /* Ejercicio 4: */
 
 /* Acá va tu código */
+#ejercicioCuatro {
+    position:static;
+    top:0px;
+    left:0px;
+}
 
 
 
 /* Ejercicio 5: */
 
 /* Acá va tu código */
+#ejercicioCinco {
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
 
 
 
 /* Ejercicio 6. */
+#ejercicioCinco {
+    display:flexdirection;
+    justify-content:row-reverse;
+    align-items:center;
+}
+    
+        
+       
+
+       
+    
